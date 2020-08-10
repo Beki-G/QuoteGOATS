@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 const express = require("express");
 const exphbs = require("express-handlebars");
 const app = express();
@@ -31,4 +29,3 @@ db.sequelize.sync({ force: true }).then(function() {
     console.log("App listening on PORT " + PORT);
   });
 });
->>>>>>> Stashed changes
