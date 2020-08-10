@@ -1,0 +1,28 @@
+{
+  "name": "quotegoat",
+  "version": "1.0.0",
+  "description": "Quote App",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js",
+    "lint": "eslint \"./**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beki-G/QuoteGOAT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beki-G/QuoteGOAT/issues"
+  },
+  "homepage": "https://github.com/Beki-G/QuoteGOAT#readme",
+  "dependencies": {
+    "eslint": "^7.6.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
