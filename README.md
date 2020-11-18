@@ -16,10 +16,12 @@ This project is protected under the MIT license.
 
 * [Description](#description)
 * [Usage](#usage)
+* [Deployment](#deployment)
 * [Installation](#installation)
 * [Dependancies](#dependancies)
 * [Improvements](#improvements)
 * [Links](#links)
+
 
 ## Description
 
@@ -28,6 +30,9 @@ A quote collective. Explore, categorize, and vote on the best things said by you
 ## Usage
 
 Users can learn quotes by every day people like them. Vote on them based on their category. And add quotes of their own.
+
+## Deployment:
+[https://quotegoat.herokuapp.com/](https://quotegoat.herokuapp.com/)
 
 ## Installation
 
@@ -59,5 +64,3 @@ Please run these commands to install dependancies for this project: npm i
 ![image](./assets/login.png)
 ![image](./assets/userpage.png)
 
-Deployed App:
-https://quotegoat.herokuapp.com/
